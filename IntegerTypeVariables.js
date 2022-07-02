@@ -3,3 +3,4 @@
 
 EXAMPLE:
 var IntegerVariable = 1
+console.log(IntegerVariable)
