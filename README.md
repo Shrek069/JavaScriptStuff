@@ -1,2 +1,2 @@
-# JavaScriptVariables
-Just a random tutorial about variables
+# JavaScriptStuff
+Contains stuff about javascript.
