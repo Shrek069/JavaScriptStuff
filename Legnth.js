@@ -12,11 +12,11 @@ var String = "abcdefghi"
 
 console.log(String.length)
 
-// Or
+// Easy Way
 
 console.log("abcdefghi".length)
 
-// Or
+// Hard Way
 
 var String = "abcdefghi"
 
